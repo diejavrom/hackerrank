@@ -6,8 +6,6 @@ import java.io.InputStreamReader;
 
 public class Solution {
 	
-	//https://www.hackerrank.com/challenges/recursive-digit-sum
-
     public static void main(String[] args) {
 		try {
 			BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
